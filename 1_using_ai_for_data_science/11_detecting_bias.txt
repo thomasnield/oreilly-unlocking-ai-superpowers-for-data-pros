@@ -1,0 +1,1 @@
+Given the tornado data came from `https://www.ncei.noaa.gov/stormevents/` what biases should I be aware of possibly?
