@@ -1,0 +1,3 @@
+Let's say we need to simulate an anti-scam bot for a proof of concept. How can we use an LLM to create synethetic data?
+
+Let's prompt it on both sides of the conversation! 

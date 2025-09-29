@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VeterinaryRecords>
+    <Dog>
+        <ID>1</ID>
+        <Name>Max</Name>
+        <Breed>Labrador Retriever</Breed>
+        <Age>5</Age>
+        <Weight>30.5</Weight>
+        <Gender>Male</Gender>
+        <VaccinationStatus>Up to date</VaccinationStatus>
+        <MedicalHistory>No major issues; annual checkups.</MedicalHistory>
+    </Dog>
+    <Dog>
+        <ID>2</ID>
+        <Name>Bella</Name>
+        <Breed>Golden Retriever</Breed>
+        <Age>3</Age>
+        <Weight>25.0</Weight>
+        <Gender>Female</Gender>
+        <VaccinationStatus>Up to date</VaccinationStatus>
+        <MedicalHistory>Allergic to certain foods; on special diet.</MedicalHistory>
+    </Dog>
+    <Dog>
+        <ID>3</ID>
+        <Name>Charlie</Name>
+        <Breed>Beagle</Breed>
+        <Age>7</Age>
+        <Weight>12.2</Weight>
+        <Gender>Male</Gender>
+        <VaccinationStatus>Needs booster</VaccinationStatus>
+        <MedicalHistory>Hip dysplasia; managed with medication.</MedicalHistory>
+    </Dog>
+    <Dog>
+        <ID>4</ID>
+        <Name>Lucy</Name>
+        <Breed>Poodle</Breed>
+        <Age>2</Age>
+        <Weight>8.5</Weight>
+        <Gender>Female</Gender>
+        <VaccinationStatus>Up to date</VaccinationStatus>
+        <MedicalHistory>Recent spay surgery; recovering well.</MedicalHistory>
+    </Dog>
+    <Dog>
+        <ID>5</ID>
+        <Name>Rocky</Name>
+        <Breed>German Shepherd</Breed>
+        <Age>4</Age>
+        <Weight>35.0</Weight>
+        <Gender>Male</Gender>
+        <VaccinationStatus>Up to date</VaccinationStatus>
+        <MedicalHistory>Ear infections in the past; now resolved.</MedicalHistory>
+    </Dog>
+</VeterinaryRecords>
