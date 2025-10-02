@@ -1,5 +1,6 @@
 
-# Download this SQLite file and put it next to your Python script. Then convert this R code into a Python script.
+# Download this SQLite file and put it next to your Python script. 
+# Then convert this R code into a Python script.
 # https://github.com/thomasnield/oreilly_programming_with_sql/blob/master/thunderbird_manufacturing.db
 
 all_customers <- function {
